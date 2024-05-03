@@ -1,11 +1,11 @@
 # HCMT: Learning Flexible Body Collision Dynamics with Hierarchical Mesh Transformer
-
+The paper is available on [link](https://arxiv.org/abs/2312.12467).
 
 ## Set environment
-The environment can be set up using either `environment.yml` file or manually installing the dependencies.
-### Using an environment.yml file
+The environment can be set up using either `environment.yaml` file or manually installing the dependencies.
+### Using an environment.yaml file
 ```
-conda env create -f environment.yml
+conda env create -f environment.yaml
 ```
 
 ## Requirements
